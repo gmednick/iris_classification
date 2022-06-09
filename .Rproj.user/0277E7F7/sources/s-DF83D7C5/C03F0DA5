@@ -3,24 +3,24 @@
     "path": "~/Documents/github_repos/2020-10-21-iris-data/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "603440872",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1654814510784.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "285,197",
-        "scrollLine": "260"
+        "cursorPosition": "4,34",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1654814678,
+    "lastKnownWriteTime": 1654816048,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1654814700340,
+    "last_content_update": 1654816048492,
     "read_only": false,
     "read_only_alternatives": []
 }

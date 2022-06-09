@@ -2,13 +2,7 @@
 title: Iris Classification
 author: 'Gabe Mednick'
 date: "6/09/2022"
-output: 
- prettydoc::html_pretty:
-    theme: cayman
-    highlight: github
-editor_options: 
-  chunk_output_type: inline
-
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -20,7 +14,6 @@ library(knitr)
 library(patchwork)
 data("iris")
 theme_set(theme_light())
-
 ```
 
 ## Iris data
